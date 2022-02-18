@@ -162,15 +162,6 @@
 					"referenceName": "AzureSqlDB",
 					"type": "LinkedServiceReference"
 				}
-			},
-			{
-				"name": "Wait1",
-				"type": "Wait",
-				"dependsOn": [],
-				"userProperties": [],
-				"typeProperties": {
-					"waitTimeInSeconds": 1
-				}
 			}
 		],
 		"annotations": [],
